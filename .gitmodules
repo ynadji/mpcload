@@ -1,0 +1,3 @@
+[submodule "pympc1000"]
+	path = pympc1000
+	url = git://github.com/stephenn/pympc1000.git
